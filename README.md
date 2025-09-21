@@ -30,7 +30,7 @@ This project showcases the end-to-end process a data analyst would follow:
 ## Data Model
 The project uses a **star schema**:
 
-![5DEC36B3-0DA5-4BC3-B6A9-F6714BBBCCFC](https://github.com/user-attachments/assets/83837158-ad1c-490c-bcf0-5869d5aa68f5)
+![5DEC36B3-0DA5-4BC3-B6A9-F6714BBBCCFC](https://github.com/user-attachments/assets/77e2d48f-a4a4-4cfe-bbb4-27b79e77e053)
 
 
 - **DimCustomer** – Stores customer details  
