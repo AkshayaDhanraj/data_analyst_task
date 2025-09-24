@@ -30,16 +30,14 @@ This project showcases the end-to-end process a data analyst would follow:
 ## Data Model
 The project uses a **star schema**:
 
-![5DEC36B3-0DA5-4BC3-B6A9-F6714BBBCCFC](https://github.com/user-attachments/assets/77e2d48f-a4a4-4cfe-bbb4-27b79e77e053)
+![01EE6F7E-7B6C-4D7D-A96A-A377A39F5A99](https://github.com/user-attachments/assets/2eda9163-b371-4436-981a-25641f8f3d5b)
 
 
-- **DimCustomer** – Stores customer details  
-- **FactOrder** – Tracks orders placed by customers  
-- **FactShipping** – Tracks shipment information
-
-**Relationships**:  
-- One customer → many orders  
-- One customer → many shipments  
+- **Dim_Customer** – Stores customer details
+- **Dim_Shipping** – Tracks shipment information
+- **Dim_Product** – Tracks product information
+- **Dim_Date** – Contains date series information for last 2 years
+- **Fact_Order** – Tracks orders placed by customers  
 
 ---
 
